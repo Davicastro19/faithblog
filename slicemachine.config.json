@@ -1,0 +1,5 @@
+{
+  "repositoryName": "blogfaith",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"]
+}
